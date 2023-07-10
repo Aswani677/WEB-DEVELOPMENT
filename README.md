@@ -1,5 +1,4 @@
 # WEB-DEVELOPMENT
-
 <!DOCTYPE html>: Defines the document type and version of HTML.
 <html>: Represents the root element of an HTML document.
 <head>: Contains metadata about the HTML document, such as the title, stylesheets, and scripts.
